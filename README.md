@@ -31,8 +31,10 @@ sqrt(a,l)
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
-![output](/output.png)
+![image](https://github.com/ILAIYADEEPAN/Square-root-of-a-number/assets/147473334/637d220a-8739-499a-a26f-00f108dde1f4)
+
+![image](https://github.com/ILAIYADEEPAN/Square-root-of-a-number/assets/147473334/7e55089b-7514-48d3-ad57-1720aa726d51)
+
 
 
 ## Result:
